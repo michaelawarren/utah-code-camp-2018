@@ -7,7 +7,7 @@
     * lots of research has to happen to make the algorithms to work
     * AI is the new magic wand
 * there is lots of research on AI
-* AIG Stages
+* AI Stages
     * Machine Learning
     * Machine intelligence
     * Machine Consciousness
